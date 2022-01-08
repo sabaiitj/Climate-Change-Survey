@@ -121,13 +121,13 @@ For the purposes of a DSI project, you must meet a few technical requirements. T
 
 ### Teams
 
-**Team 1**:
+**Team Apples**:
 1. Barb
 2. Vadim
 3. Chris
 4. Pyotr
 
-**Team 2**:
+**Team Oranges**:
 1. Dimitrios
 2. Juan
 3. Doug
