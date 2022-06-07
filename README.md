@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 5: Group Project
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Group Project
 
 ## The work
 
@@ -12,7 +12,7 @@ Remember to start with a good problem statement!
 
 Some prompts have links to data sources, some don't. It's your responsibility to gather and clean your data. For most projects, this will be the bulk of your work. **Start early!**
 
-Inspiration for several prompts came from [Data is Plural](https://tinyletter.com/data-is-plural).
+Inspiration for several prompts came from [Data is Plural](https://www.data-is-plural.com).
 
 ## Prompts
 
@@ -40,7 +40,7 @@ The United States Sentencing Commission (USSC) has [data](https://www.ussc.gov/r
 
 ### Environment
 
-The EPA has data on [air quality](https://cfpub.epa.gov/airnow/index.cfm?action=airnow.main), [precipitation](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={BDD5DD12-4942-41A6-B47D-9C2459F28A0A}), [stream flows](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={0599E344-4682-479D-9334-78FE576E2881}) [and more](https://edg.epa.gov/metadata/catalog/main/home.page).
+The EPA has data on [precipitation](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={BDD5DD12-4942-41A6-B47D-9C2459F28A0A}), [stream flows](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={0599E344-4682-479D-9334-78FE576E2881}) [and more](https://edg.epa.gov/metadata/catalog/main/home.page).
 
 ### Protests
 
@@ -55,9 +55,6 @@ The EPA has data on [air quality](https://cfpub.epa.gov/airnow/index.cfm?action=
 Chronic Traumatic Encephalopathy (CTE) is a horrific brain disease, and occurs [frequently](http://www.bu.edu/articles/2017/cte-former-nfl-players/) in former NFL players. Gathering the data will take some work, but here are some starter links.
 - [Kaggle](https://www.kaggle.com/jpmiller/nfl-competition-data)
 - [Twelve Years of National Football League Concussion Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3438866/)
-
-### Politics
-FiveThiryEight is a great news and commentary site for all things data. Their main foci are sports and politics. If you're interested in polling data, check out the "Data" links in the footer on [this page](https://projects.fivethirtyeight.com/2020-election-forecast/).
 
 ### Consumer Complaints
 
