@@ -18,8 +18,11 @@
 
 ## Problem Statement 
 
-We are a team of data scientists entrusted with the task of providing a methodology to create an awareness campaign for climate change. We have a meeting with key members of the staff of John Kerry - Special Presidential Envoy for Climate to discuss the demographics of the nation in the context of their belief in global warming. Leveraging their internal marketing and public service announcement capabilities, they want to know the types of people they should reach out to, especially those on the fence.
+We are meeting with key members of the staff of John Kerry - Special Presidential Envoy for Climate - to discuss the characteristics of the nation in the context of their belief in global warming
+Leveraging their internal marketing and public service announcement capabilities, they want to know the types of people they should investigate further for reaching out to. 
+A major boon will be to convince persons that don’t believe global warming is happening otherwise.
 
+**What types of characteristics and features have the largest effect on whether or not a person believes global warming is happening?**
 
 ## The Data
 
@@ -27,10 +30,11 @@ We used the following dataset available on the website of Yale climate communica
 
 ## Notebook Descriptions
 
-1. aggregate_eda.ipynb : Carried out EDA in this notebook
-2. Preprocessing.ipynb : Carried out preprocessing in this notebook
-3. ensemble methods.ipynb : Modeled ensemble algorithms on the processed data in this notebook
-4. logistic_regression.ipynb : Modeled logistic regression algorithm on the processed data in this notebook
+1. 01_EDA.ipynb : Carried out EDA in this notebook
+2. 02_Preprocessing.ipynb : Carried out preprocessing in this notebook
+3. 03a_Modeling_logistic_regression.ipynb : Modeled logistic regression algorithm on the processed data in this notebook
+4. 03b_Modeling_SVM_model.ipynb : Modeled SVM algorithm on processed data in this notebook
+5. 03c_Modeling_Ensemble.ipynb : Modeled ensemble algorithms on the processed data in this notebook. Our Production Model.
 
 ## Modeling and Preprocessing
 
