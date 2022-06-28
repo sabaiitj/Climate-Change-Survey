@@ -53,15 +53,23 @@ The data dictionary can be found [here](https://git.generalassemb.ly/ljackelen/p
 
 ## Conclusions and Recommendations
 
-We found that scientific consensus, and how and when climate change is going to affect an individual personally or in a collective way affects their climate awareness. hence our recommendations are based on these parameters. We suggest that campaign should incorporate following ideas.
+Conclusions:
+-  For our best model we found that many of the questions that were asked relating to whether or not global warming may be harmful were most important for predicting our target. This holds true for our logistic regression model as it shared many of the same features
+-  This may come as no surprise but we found there to be a strong divide in belief in climate change based on political affiliation and even wider still depending on the ideology.
+-  Education level plays an important factor. The more educated a person is the more likely they are to believe in climate change. 
+-  Age can be a factor however small. The older generations seem to not believe in climate change as much as the more recent ones. 
+-  People who believe in climate change have fewer or no children at all.
+-  More religious people are more likely to not believe in climate change.
 
-- Recommend media that helps friends and family to learn about climate change more tangibly. It will make them worried. 
-- HBO should probably be telecasting “Our World” and “Before the Flood” more often.
+Recommendations:
+- Recommend media that helps friends and family to learn about climate change more tangibly. It will make them worried. HBO should probably be telecasting “Our World” and “Before the Flood” more often.
 - Speak to people in a language they understand- popular leaders,actors, famous scientists etc. Make climate awareness a compulsory subject in schools
 - Highlight the heatwaves in US and Canada in social media
-- Eat more plant based meals- your body and planet will thank you
-- Slower shipping for shopping
-- Switch to renewable energy
+- Have climate change be taught in schools from an early age
+- Convince people to change their political views
+- Incorporate climate change programme in service attendance and old age homes
+- Most people are worried about the effects of climate change, even if they say they don’t believe in it or don’t know. Based on this fact, we recommend focusing on showing the current natural disasters that are directly caused by global warming. These events directly impact the US population, more so in certain high risk areas like floodplains and hurricane prone environments. 
+- There’s a large discrepancy in people’s idea of why global warming is happening (by humans, natural, or both). Many people that don’t believe in global warming or don’t know still say it’s caused by humans. The scientific community all believe it is caused by humans. We recommend addressing this discrepancy in lessons and public discussions. 
 
 
 ## Executive Summary
