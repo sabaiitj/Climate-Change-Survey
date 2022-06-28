@@ -23,7 +23,7 @@ We are a team of data scientists entrusted with the task of providing a methodol
 
 ## The Data
 
-We used the following dataset available on the website of Yale climate communication website.The link to it can be found [here].(https://climatecommunication.yale.edu/visualizations-data/ycom-us/) 
+We used the following dataset available on the website of Yale climate communication website.The link to it can be found [here](https://climatecommunication.yale.edu/visualizations-data/ycom-us/) 
 
 ## Notebooks Descriptions
 
@@ -43,7 +43,7 @@ We cleaned the data in following steps:
 
 ## Data Dictionary
 
-The data dictionary can be found [here] (https://git.generalassemb.ly/ljackelen/project_4/blob/master/data/Project4_Data_Dictionary.pdf)
+The data dictionary can be found [here](https://git.generalassemb.ly/ljackelen/project_4/blob/master/data/Project4_Data_Dictionary.pdf)
 
 
 
