@@ -23,7 +23,14 @@ We are a team of data scientists entrusted with the task of providing a methodol
 
 ## The Data
 
-We used the following dataset available on University of XYZ website[!XYZ repository] It is a survey data wherein each individual is given a questionnaire.
+We used the following dataset available on the website of Pew Research Centre.The link to it can be found [here].(https://climatecommunication.yale.edu/visualizations-data/ycom-us/) 
+
+## Notebooks Descriptions
+
+1. aggregate_eda.ipynb : Carried out EDA in this notebook
+2. Preprocessing.ipynb : Carried out preprocessing in this notebook
+3. ensemble methods.ipynb : Modeled ensemble algorithms on the processed data in this notebook
+4. logistic_regression.ipynb : Modeled logistic regression algorithm on the processed data in this notebook
 
 ## Modeling and Preprocessing
 
@@ -36,6 +43,7 @@ We cleaned the data in following steps:
 
 ## Data Dictionary
 
+The data dictionary can be found [here] (https://git.generalassemb.ly/ljackelen/project_4/blob/master/data/Project4_Data_Dictionary.pdf)
 
 
 
@@ -55,6 +63,9 @@ We found that scientific consensus, and how and when climate change is going to 
 ## Executive Summary
 
 Not all stakeholders are aware of their vulnerability to climate change and the steps they might take to proactively adapt to it. Therefore, increasing public awareness is crucial to managing the effects of climate change, improving adaptive capacity, and lowering overall risk. The goal of raising public awareness is to increase passion and support, inspire self-motivation and action, and mobilize local expertise and resources. As critical players in the process of adjusting policy, politicians and policy makers, raising political awareness is crucial. 
+
 To achieve the desired result, communication tactics that are effective are needed while raising awareness. The combination of various communication tactics targeting a specific audience over a set length of time can be widely referred to as a "awareness raising campaign." Although the objectives of awareness-raising campaigns frequently vary depending on the environment, they typically involve raising awareness, educating the intended audience, fostering a favorable perception, and making an effort to influence their behavior.
+
 Research demonstrates that awareness levels change throughout time under the effect of external factors, despite the fact that increased consciousness is frequently thought to be crucial during the early phases of the adaptation process. In contrast, the 2011–2010 cold winters in Europe, the minor IPCC errors, and the CRU (Climate Research Unit) emails have negatively impacted public acceptance of climate change and increased public skepticism. As an example, the Al Gore film "An Inconvenient Truth" (2006) and the IPCC Nobel Peace Prize have a positive effect on the public awareness. Raising awareness is therefore essential to maintaining and raising the overall level of awareness throughout the process, not only in the early phases.
+
 Campaigns to raise awareness can target the general public, stakeholder groups, communities affected by a specific climate issue, etc. Such programs' ultimate goal is to bring about long-lasting behavioral changes. Raising awareness aims to increase people's and organizations' knowledge. It attempts to make sure that all pertinent regional and subregional bodies are aware of the effects of specific climate changes and are acting to address them. However, they can also concentrate on a specific effect that is thought to be the most significant, such as The Netherlands' "Live with Water." Such campaigns are typically deemed successful if multiple communication channels are utilized, including the distribution of printed materials, the organization of public training sessions and meetings, professional consultation, communication and information through social and mass media, and the use of informal networks for the spread of information. Of reduce the risk to human safety and property damage, for example during a flood event, it can be supplemented with the creation of community self-protection teams that encourage self-reliance among people and companies.
