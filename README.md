@@ -1,10 +1,16 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Group Project
 
+## Team
 
+1. Andy Deemer
+2. Larry Jackelen
+3. Saba Suhail
+4. Vilo Avilo
 
 ## Problem Statement 
 
 We are a team of data scientists entrusted with the task of providing a methodology to create an awareness campaign for climate change. We have a meeting with key members of the staff of John Kerry - Special Presidential Envoy for Climate to discuss the demographics of the nation in the context of their belief in global warming. Leveraging their internal marketing and public service announcement capabilities, they want to know the types of people they should reach out to, especially those on the fence.
+
 
 ## The Data
 
@@ -18,8 +24,11 @@ We cleaned the data in following steps:
 4. Selected 20 best features using SelectKBest()
 4. PCA to further get 5 variables into account for noise
 
+## Data Dictionary
+
 
 ## Conclusions and Recommendations
+
 We found that scientific consensus, and how and when climate change is going to affect an individual personally or in a collective way affects their climate awareness. hence our recommendations are based on these parameters. We suggest that campaign should incorporate following ideas.
 
 - Recommend media that helps friends and family to learn about climate change more tangibly. It will make them worried. 
