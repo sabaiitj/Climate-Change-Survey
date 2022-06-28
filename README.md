@@ -10,8 +10,8 @@
 ## Contents
 
 - [Problem Statement](#Problem-Statement)
-- [Data](#Data)
-- [Notebooks Descriptions](#Notebook-Descriptions)
+- [Data](#The-Data)
+- [Notebook Descriptions](#Notebook-Descriptions)
 - [Modeling and Preprocessing](#Modeling-and-Preprocessing)
 - [Data Dictionary](#Data-Dictionary)
 - [Executive Summary](#Executive-Summary)
@@ -25,7 +25,7 @@ We are a team of data scientists entrusted with the task of providing a methodol
 
 We used the following dataset available on the website of Yale climate communication website.The link to it can be found [here](https://climatecommunication.yale.edu/visualizations-data/ycom-us/) 
 
-## Notebooks Descriptions
+## Notebook Descriptions
 
 1. aggregate_eda.ipynb : Carried out EDA in this notebook
 2. Preprocessing.ipynb : Carried out preprocessing in this notebook
