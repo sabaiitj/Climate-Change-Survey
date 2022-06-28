@@ -7,6 +7,15 @@
 3. Saba Suhail
 4. Vilo Avilo
 
+## Contents
+
+- [Problem Statement](#Problem-Statement)
+- [Data](#Data)
+- [Notebooks Descriptions](#Notebook-Descriptions)
+- [Modeling and Preprocessing](#Modeling-and-Preprocessing)
+- [Data Dictionary](#Data Dictionary)
+- [Executive Summary](#Executive-Summary)
+
 ## Problem Statement 
 
 We are a team of data scientists entrusted with the task of providing a methodology to create an awareness campaign for climate change. We have a meeting with key members of the staff of John Kerry - Special Presidential Envoy for Climate to discuss the demographics of the nation in the context of their belief in global warming. Leveraging their internal marketing and public service announcement capabilities, they want to know the types of people they should reach out to, especially those on the fence.
@@ -17,6 +26,7 @@ We are a team of data scientists entrusted with the task of providing a methodol
 We used the following dataset available on University of XYZ website[!XYZ repository] It is a survey data wherein each individual is given a questionnaire.
 
 ## Modeling and Preprocessing
+
 We cleaned the data in following steps:
 1. Dummified data
 2. Made ordinal labels for ordinal columns
@@ -25,6 +35,8 @@ We cleaned the data in following steps:
 4. PCA to further get 5 variables into account for noise
 
 ## Data Dictionary
+
+
 
 
 ## Conclusions and Recommendations
