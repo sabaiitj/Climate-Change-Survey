@@ -12,9 +12,10 @@
 - [Problem Statement](#Problem-Statement)
 - [Data](#The-Data)
 - [Notebook Descriptions](#Notebook-Descriptions)
-- [Modeling and Preprocessing](#Modeling-and-Preprocessing)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 - [Data Dictionary](#Data-Dictionary)
 - [Executive Summary](#Executive-Summary)
+- [References](#References)
 
 ## Problem Statement 
 
@@ -26,7 +27,8 @@ A major boon will be to convince persons that don’t believe global warming is 
 
 ## The Data
 
-We used the following dataset available on the website of Yale climate communication website.The link to it can be found [here](https://climatecommunication.yale.edu/visualizations-data/ycom-us/) 
+Data was downloaded from the [Yale Program on Climate Change Communication](https://climatecommunication.yale.edu/visualizations-data/ycom-us/). We cleaned the data by dropping persons who refused to answer 5 or more questions. Categorical features were either dummified or ordinal encoded. The 80 features were reduced to 20 through feature selection using SelectKBest() and the 60 other features were reduced to 5 PCA variables to account for noise. The dataset was train-test split, the null values were iteratively imputed, and the dataset was standard scaled. This left us with 25 features for modeling.
+
 
 ## Notebook Descriptions
 
@@ -36,14 +38,9 @@ We used the following dataset available on the website of Yale climate communica
 4. 03b_Modeling_SVM_model.ipynb : Modeled SVM algorithm on processed data in this notebook
 5. 03c_Modeling_Ensemble.ipynb : Modeled ensemble algorithms on the processed data in this notebook. Our Production Model.
 
-## Modeling and Preprocessing
 
-We cleaned the data in following steps:
-1. Dummified data
-2. Made ordinal labels for ordinal columns
-3. Standard Scaled
-4. Selected 20 best features using SelectKBest()
-4. PCA to further get 5 variables into account for noise
+**Software Recommendations**
+Pandas, Sci-Kit Learn, Numpy, MatPlotLib, Seaborn
 
 ## Data Dictionary
 
@@ -98,4 +95,5 @@ This model is just the stepping stone and can be further improved through more f
 ## References
 
 https://fivethirtyeight.com/features/how-you-view-climate-change-might-depend-on-where-you-live/
-https://climatecommunication.yale.edu/visualizations-data/americans-climate-views/
+
+https://climatecommunication.yale.edu/visualizations-data/ycom-us/
