@@ -13,6 +13,7 @@
 - [Data](#The-Data)
 - [Notebook Descriptions](#Notebook-Descriptions)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+- [Future Enhancements](#Future-Enhancements)
 - [Data Dictionary](#Data-Dictionary)
 - [Executive Summary](#Executive-Summary)
 - [References](#References)
@@ -42,12 +43,6 @@ Data was downloaded from the [Yale Program on Climate Change Communication](http
 **Software Recommendations**
 Pandas, Sci-Kit Learn, Numpy, MatPlotLib, Seaborn
 
-## Data Dictionary
-
-The data dictionary can be found [here](https://git.generalassemb.ly/ljackelen/project_4/blob/master/data/Project4_Data_Dictionary.pdf)
-
-
-
 ## Conclusions and Recommendations
 
 Conclusions:
@@ -67,6 +62,18 @@ Recommendations:
 - Incorporate climate change programme in service attendance and old age homes
 - Most people are worried about the effects of climate change, even if they say they don’t believe in it or don’t know. Based on this fact, we recommend focusing on showing the current natural disasters that are directly caused by global warming. These events directly impact the US population, more so in certain high risk areas like floodplains and hurricane prone environments. 
 - There’s a large discrepancy in people’s idea of why global warming is happening (by humans, natural, or both). Many people that don’t believe in global warming or don’t know still say it’s caused by humans. The scientific community all believe it is caused by humans. We recommend addressing this discrepancy in lessons and public discussions. 
+
+## Future Enhancements
+The analysis can be further improved by:
+-  More feature creation and consolidation, especially with the Harm series of questions
+-  Imputing Nulls and Refused separately rather than together. This will capture signal separately for people not being served a question versus refusing to answer the question.
+-  Leveraging the wave weight and weight aggregate in the analysis. This will allow the findings to be more generalizable toward the United States population as a whole, rather than just similar demographic populations
+
+## Data Dictionary
+
+The data dictionary can be found [here](https://git.generalassemb.ly/ljackelen/project_4/blob/master/data/Project4_Data_Dictionary.pdf)
+
+
 
 
 ## Executive Summary
