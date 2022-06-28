@@ -98,3 +98,4 @@ This model is just the stepping stone and can be further improved through more f
 ## References
 
 https://fivethirtyeight.com/features/how-you-view-climate-change-might-depend-on-where-you-live/
+https://climatecommunication.yale.edu/visualizations-data/americans-climate-views/
